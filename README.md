@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **soulaymanegouijane/soulaymanegouijane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##My GitHub 
+<a href="https://github.com/soulaymanegouijane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soulaymanegouijane&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/soulaymanegouijane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulaymanegouijane&layout=compact&theme=radical&langs_count=8" />
+</a>
