@@ -19,6 +19,9 @@
 
 <p align="center">
   <br/>
+   <a href="https://badges.pufler.dev/visits/soulaymanegouijane/soulaymanegouijane">
+    <img src="https://badges.pufler.dev/visits/soulaymanegouijane/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
+  </a>
   <a href="https://github.com/soulaymanegouijane"><img alt="Soulaymane's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=soulaymanegouijane&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/soulaymanegouijane"><img alt="Soulaymane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulaymanegouijane&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
