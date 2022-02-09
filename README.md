@@ -31,7 +31,7 @@
   <a href="https://badges.pufler.dev/years/soulaymanegouijane">
     <img src="https://badges.pufler.dev/years/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Years">
   </a>
-  <a href="https://badges.pufler.dev/repos/soulaymanegouijane">
+  <a href="https://badges.pufler.dev/repos/soulaymanegouijane"> 
     <img src="https://badges.pufler.dev/repos/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Repos">
   </a>
 </p>
